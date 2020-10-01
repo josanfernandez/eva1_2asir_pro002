@@ -11,4 +11,7 @@ Para esta actividad he tenido qué realizar el siguiente procedimiento:
 -git commit -m "first commit" para crear tsconfig en el qué hay que entrar en su documentación y descomentar la linea de "outDir": "./", añadiendo despues del punto "outDir": "./dist", 
 -git push -u origin master lo utilizamos para subir los archivos
 -git pull por si modificas en algo desde el README de la parte de nuestro Git Hub tenerlo en el local
--tsc -w para crear el archivo js
+-Creamos un archivo de ejercicio002.ts y con tsc -w para crear el archivo js
+-En ese archivo .ts creamos una función de TypeScript 
+-Abrimos una nueva terminal y utilizamos el comando node doc/ejercicio002.ts para ver el resultado.
+
